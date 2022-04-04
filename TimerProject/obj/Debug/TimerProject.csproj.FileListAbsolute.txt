@@ -1,0 +1,13 @@
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\bin\Debug\TimerProject.exe.config
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\bin\Debug\TimerProject.exe
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\bin\Debug\TimerProject.pdb
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.csprojAssemblyReference.cache
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.FrmGeral.resources
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.Properties.Resources.resources
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.csproj.GenerateResource.cache
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.exe
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.pdb
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.Form2.resources
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.Form3.resources
+D:\Games\Visual Studio\Projetos\TimerProject\TimerProject\obj\Debug\TimerProject.Form4.resources
